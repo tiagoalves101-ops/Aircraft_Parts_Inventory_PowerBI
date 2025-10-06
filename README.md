@@ -27,8 +27,8 @@ The dashboard highlights aging parts that require replacement planning, value co
 ---
 
 ## 📸 Preview
-![Dashboard Page 1](images/dashboards-1.png)
-![Dashboard Page 2](images/dashboards-2.png)
+![Dashboard Page 1](images/dashboard-1.png)
+![Dashboard Page 2](images/dashboard-2.png)
 
 ---
 
